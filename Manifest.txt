@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/div_by_3
+lib/div_by_3.rb
+test/test_div_by_3.rb
