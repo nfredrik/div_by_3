@@ -1,4 +1,4 @@
-=== 1.0.1 / 2016-08-28
+=== 1.0.2 / 2016-08-29
 
 * 1 major enhancement
 
@@ -7,3 +7,7 @@
 * 1 minor enhancement
 
   * Some corrections
+
+* 1 minor correction
+ 
+  * changes _with_ to _by_
