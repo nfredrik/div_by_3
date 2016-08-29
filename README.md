@@ -32,10 +32,11 @@ $ gem install is_even
 
 ## Usage
 
+```ruby
 div_by_3(123) => true
 
 div_by_3(223) => false
-
+```
 
 ## Development
 
